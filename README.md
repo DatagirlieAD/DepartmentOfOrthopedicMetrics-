@@ -14,7 +14,7 @@
    - Hover over chart elements for detailed tooltips
 
 3. **Online Access**:
-   - [View interactive metrics dashboard online](https://1drv.ms/x/c/0db5c7bacd558609/EZDzZ-EN7DJBgou8QFHoppgBPqbhp6k8b_dJsSyG2BjxxA?e=nmEfdk)
+   - [View interactive metrics dashboard online](https://1drv.ms/x/c/0db5c7bacd558609/EaQYrY-E8bhHo8TRasbYwXYBidwyPcOwlLhOEt1uV4LJrA)
    - (Note: Requires appropriate permissions/excel online access)
 
 **Pro Tip**: For best experience:
